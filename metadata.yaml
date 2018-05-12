@@ -1,0 +1,29 @@
+_repo: Narrative-of-a-Journey-to-the-Summit-of-Mont-Blanc_32823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, William
+    birthdate: 1793
+    deathdate: 1834
+    gutenberg_agent_id: '36063'
+    url: http://www.gutenberg.org/2009/agents/36063
+    wikipedia: http://en.wikipedia.org/wiki/William_Howard_%28engineer%29
+description: ''
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32823'
+  lccn: 05008586
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blanc, Mont (France and Italy)'
+- !lcc 'DQ'
+- !lcsh 'Mountaineering'
+title: Narrative of a Journey to the Summit of Mont Blanc
+url: http://www.gutenberg.org/ebooks/32823
