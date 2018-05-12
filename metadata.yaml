@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36063
     wikipedia: http://en.wikipedia.org/wiki/William_Howard_%28engineer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32823#Narrative-of-a-Journey-to-the-Summit-of-Mont-Blanc
 gutenberg_issued: '2010-06-15'
 gutenberg_type: Text
 identifiers:
